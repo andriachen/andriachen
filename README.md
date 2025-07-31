@@ -2,7 +2,7 @@
 
 I'm a junior at Tufts University majoring in Cognitive and Brain Science and minoring in Computer Science on the pre-med track. My academic and research interests lie at the intersection of **neuroscience**, **machine learning**, and **healthcare technology**.
 
-🧠 Currently, I’m involved in **research on Alzheimer’s disease**, exploring the neural mechanisms behind memory and long-term synaptic plasticity. I’ve also trained in **machine learning** through the Break Through Tech AI program, where I worked on practical, real-world ML problems alongside industry mentors.
+🧠 Currently, I’m a fellow in the Break Through Tech AI program at MIT where I'm working on **practical, real-world ML problems** alongside industry mentors. I've also been involved in **research on Alzheimer’s disease** where I explored the neural mechanisms behind memory and long-term synaptic plasticity. 
 
 🌱 I'm passionate about inclusive innovation and science outreach. As a part of **Girlstart**, I lead STEM education programs that empower young girls to explore coding, robotics, and engineering.
 
