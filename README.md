@@ -1,6 +1,6 @@
 ## Hi, I'm Andria! 👋
 
-I'm a junior at Tufts University majoring in Cognitive and Brain Science and minoring in Computer Science on the pre-med track. My academic and research interests lie at the intersection of **neuroscience**, **machine learning**, and **healthcare technology**.
+I'm a Junior at Tufts University studying Cognitive and Brain Science with a minor in Computer Science. My academic and research interests lie at the intersection of **neuroscience**, **machine learning**, and **healthcare technology**.
 
 🧠 Currently, I’m a fellow in the Break Through Tech AI program at MIT where I'm working on **practical, real-world ML problems** alongside industry mentors. I've also been involved in **research on Alzheimer’s disease** where I explored the neural mechanisms behind memory and long-term synaptic plasticity. 
 
