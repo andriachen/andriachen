@@ -14,4 +14,5 @@ Product: Jira Miro Product Requirements Cross-functional Strategy
 Tools: GitHub Jupyter Google Colab VS Code LaTeX
 Areas: Machine Learning & AI, Deep Learning, Survival Analysis, Predictive Modeling, Feature Engineering, Time Series Analysis, MLOps, Data Pipeline Development
 Bioinformatics: RNA/DNA Sequencing & Isolation, NGS, qPCR, Immunocytochemistry, Cell Cultures & Imaging
+
 📫 Let's connect: andriachen81@gmail.com | LinkedIn | andriachen.dev
